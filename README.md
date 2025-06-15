@@ -1,4 +1,4 @@
-# AIJ Vector Database & RAG Demo
+# Vector Database & RAG Demo
 
 This project demonstrates how to create and use a vector database for document retrieval and Retrieval-Augmented Generation (RAG) using Python notebooks and a Django web demo. It uses lightweight models from HuggingFace for demonstration.
 
